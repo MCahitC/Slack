@@ -12,6 +12,10 @@ public class Login {
 
         //brand new code made from intelij
 
+        //if there is a conflict due to simultaneous changes
+        //analayse the changes, if duplicate then delete one code, if you want both
+        //just add and commit and push again
+
 
     }
 }
